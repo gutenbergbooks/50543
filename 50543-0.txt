@@ -1,11 +1,13 @@
-﻿The Project Gutenberg EBook of Short Stories for High Schools, by Various
+﻿The Project Gutenberg EBook of Short Stories for High Schools, by 
+Various
 
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
+This eBook is for the use of anyone anywhere in the United States and 
+most other parts of the world at no cost and with almost no
+restrictions whatsoever.  You may copy it, give it away or re-use it 
+under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org.  If you are not located in the
+United States, you'll have to check the laws of the country where you
+are located before using this ebook.
 
 Title: Short Stories for High Schools
 
@@ -14,12 +16,14 @@ Author: Various
 Editor: Rosa M. R. Mikels
 
 Release Date: November 23, 2015 [EBook #50543]
+Last Updated: July 26, 2022
 
 Language: English
 
 Character set encoding: UTF-8
 
-*** START OF THIS PROJECT GUTENBERG EBOOK SHORT STORIES FOR HIGH SCHOOLS ***
+*** START OF THIS PROJECT GUTENBERG EBOOK SHORT STORIES FOR HIGH
+SCHOOLS ***
 
 
 
@@ -1824,7 +1828,7 @@ an’ me, says he:
 An’ me, thinkin’ of co’se he meant the ‘Piscopal Church, says: “No,
 sir,” says I, thess so. And then we see that the way was open for us
 to be did over ag’in ef we wanted to. So, sir, wife an’ me we was took
-into the church, then an’ there. We wouldn’t ’a’’ yielded to him,
+into the church, then an’ there. We wouldn’t ’a’ yielded to him,
 thoo an’ thoo, that-a-way ag’in ef his little foot hadn’t ’a’’ been
 so swole, an’ he maybe takin’ his death o’ cold settin’ out in the
 po’in’-down rain; but things bein’ as they was, we went thoo it with
@@ -8100,7 +8104,7 @@ the following, written in pencil, in a firm hand:
                     WHO STRUCK A STREAK OF BAD LUCK
                      ON THE 23D OF NOVEMBER, 1850,
                                   AND
-                          ANDED IN HIS CHECKS
+                          HANDED IN HIS CHECKS
                       ON THE 7TH DECEMBER, 1850.
                                    †
 
@@ -9724,7 +9728,7 @@ an’ white.
 
 “When I had tell ’em all ’bout it, I tu’ned right ’roun’ an’ rid over
 to Cun’l Chahmb’lin’s, ’cause I knowed dat wuz what Marse Chan he’d
-’a’’ wanted me to do. I didn’ tell nobody whar I wuz gwine, ’cause yo’
+’a’ wanted me to do. I didn’ tell nobody whar I wuz gwine, ’cause yo’
 know none on ’em hadn’ nuver speak to Miss Anne, not sence de duil, an’
 dey didn’ know ’bout de letter.
 
@@ -10879,7 +10883,7 @@ only a dim vision of the strange and graceful shapes of its curious
 furnishing. But you could not but be instantly conscious of the
 delicate perfume that pervaded the apartment, and, for the matter of
 that, the whole house. It was a combination of all the delightful
-Eastern smells—not sandal-ood only, nor teak, nor couscous, but all
+Eastern smells—not sandal-wood only, nor teak, nor couscous, but all
 these odors and a hundred others blent in one. Yet it was not heavy nor
 overpowering, but delightfully faint and sweet, diffused through those
 ample rooms. There was good reason, indeed, for the children of the
@@ -14451,7 +14455,8 @@ www.gutenberg.org
 
 
 
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
+Section 3. Information about the Project Gutenberg Literary Archive 
+Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
@@ -14509,7 +14514,8 @@ methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works.
+Section 5. General Information About Project Gutenberg-tm electronic
+works.
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
